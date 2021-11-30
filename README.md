@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @UduakGrace
-- 👀 I’m interested in data science and data analysis
-- 🌱 I’m currently learning how to code as I am making a career switch
-- 💞️ I’m looking to collaborate on beginner and intermediate projects
+- 👀 I am making a career switch from environmental sustainability to tech.
+- 🌱 I’m currently studying Data Science and Artificial Intelligence
+- 💞️ I’m looking to collaborate on beginner and intermediate projects. 
+- Also looking for internship opportunities to give me industry experience and broaden my classroom learnings
 - 📫 
 
 <!---
